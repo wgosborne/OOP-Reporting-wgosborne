@@ -1,0 +1,5 @@
+C:\Users\wgosb\source\repos\oop-reporting-wgosborne\obj\Debug\net6.0\oop-reporting-wgosborne.csproj.AssemblyReference.cache
+C:\Users\wgosb\source\repos\oop-reporting-wgosborne\obj\Debug\net6.0\oop-reporting-wgosborne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgosb\source\repos\oop-reporting-wgosborne\obj\Debug\net6.0\oop-reporting-wgosborne.AssemblyInfoInputs.cache
+C:\Users\wgosb\source\repos\oop-reporting-wgosborne\obj\Debug\net6.0\oop-reporting-wgosborne.AssemblyInfo.cs
+C:\Users\wgosb\source\repos\oop-reporting-wgosborne\obj\Debug\net6.0\oop-reporting-wgosborne.csproj.CoreCompileInputs.cache
